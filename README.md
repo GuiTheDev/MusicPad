@@ -1,5 +1,7 @@
 # MusicPad (hackpad) 🔧🎶
 
+[](/assets/p2.png)
+
 **MusicPad** (aka *hackpad*) is a small, open-hardware music controller project. It's a compact pad/button-based interface intended to control music(spotify, youtube and such). This repository contains the PCB design, 3D case model, and an early, in-progress firmware prototype.
 
 ---
