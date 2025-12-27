@@ -20,7 +20,7 @@ PCB Design:
 
 - **Where the stuff is**
   - PCB design files (`PCB/` KiCad files)
-  - 3D model / assembly file for the case (`CAD/MusicPadAss.3mf`)
+  - 3D model / assembly file for the case (`CAD/MusicPadAss.step`)
   - Firmware prototype (`Firmware/main.py`)
 
 ---
